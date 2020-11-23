@@ -107,7 +107,7 @@ prop_process() {
 
 # Credits
 ui_print "**************************************"
-ui_print "*   FOSSAPPS GCA by Wacko1805  *"
+ui_print "*  Wacko1805   @github   @reddit     *"
 ui_print "**************************************"
 ui_print " "
 
