@@ -1,4 +1,4 @@
-# Fossapps-Addons (Work In Progress!)
+# Fossapps-Addons
 
 ### A Google Client addon for Fossapps (Fossapps GCA)
 
